@@ -1,15 +1,5 @@
-# Real Estate NFT DApp
+# Real Estate NFT DApp By Nurov Arnur CS-2002
 
-## Technology Stack & Tools
-
-- Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
-- [React.js](https://reactjs.org/) (Frontend Framework)
-
-## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
 
 ## Setting Up
 ### 1. Clone/Download the Repository
@@ -29,3 +19,15 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+### 8. Add Your Local HardHat network to Metamask
+![изображение](https://user-images.githubusercontent.com/73793275/201925794-35322fe3-cf89-4b70-95db-4487f911a66f.png)
+`Click save afterwards`
+
+### 9. Connect Generated Test Accounts to your metamask
+After initializing your node using `npx hardhat node` you will recieve test accounts. Add them using private key
+![изображение](https://user-images.githubusercontent.com/73793275/201926035-cbc5ad65-d4cd-4af6-8ebf-9aad615f00fa.png)
+![изображение](https://user-images.githubusercontent.com/73793275/201926076-2d3e2a3a-e7a8-4f37-b0a4-898add3ac6a5.png)
+
+
+### 10. Enjoy your Web3 Application!
